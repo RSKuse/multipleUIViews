@@ -25,7 +25,7 @@
 		F33763D12938BF8800DD3E8B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F33763D42938BF8800DD3E8B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F33763D62938BF8800DD3E8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F33763DE293CB8CF00DD3E8B /* SpotifyMusicContainerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SpotifyMusicContainerView.swift; path = Assets.xcassets/SpotifyMusicContainerView.swift; sourceTree = "<group>"; };
+		F33763DE293CB8CF00DD3E8B /* SpotifyMusicContainerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpotifyMusicContainerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
